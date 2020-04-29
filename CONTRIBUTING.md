@@ -16,6 +16,8 @@ Your comments and feedback are welcome, and the development team is available vi
 
 See the [Feedback Channels](https://github.com/Microsoft/vscode/wiki/Feedback-Channels) wiki page for details on how to share your thoughts.
 
+A couple pf changes
+
 ## Reporting Issues
 
 Have you identified a reproducible problem in VS Code? Have a feature request? We want to hear about it! Here's how you can make reporting your issue as effective as possible.
